@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import LifeCyclesCWU from './components/LifeCyclesCWU';
+import SearchBar from './components/SearchBar';
 
 
 function App() {
   return (
     <div className="App">
-      <LifeCyclesCWU />
+      <SearchBar />
     </div>
   );
 }
