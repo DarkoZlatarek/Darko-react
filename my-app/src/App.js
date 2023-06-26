@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import SearchBar from './components/SearchBar';
+import UseEffectCounter from './components/UseEffectCounter';
 
 
 function App() {
   return (
     <div className="App">
-      <SearchBar />
+      <UseEffectCounter />
     </div>
   );
 }
